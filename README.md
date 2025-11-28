@@ -13,3 +13,6 @@ Practice version control, collaboration, and workflow basics.
 
 ## License
 This project is licensed under the MIT License.
+
+**Author:**Zahra Sabbaq
+**Purpose of Fork:** Practicing Git and contribuing to the project
