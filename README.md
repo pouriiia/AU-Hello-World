@@ -1,15 +1,24 @@
-# Hello World – IAU
+# Hello World – IAU (Improved Version)
 
-A simple Hello World project for IAU students to practice basic Git and GitHub skills.
+An improved Hello World project for practicing Git, GitHub, and Python basics.
 
-## How to Use
-1. Clone the repository  
-2. Make your changes  
-3. Commit and push  
-4. Open a pull request
+## Features
+- Greets the user  
+- Asks for user's name  
+- Shows current date and time  
+- Clean and structured Python code  
 
-## Purpose
-Practice version control, collaboration, and workflow basics.
+## How to Run
+```bash
+python Hello.world.py
+```
+
+## How to Contribute
+1. Fork the repository  
+2. Create a new branch  
+3. Make your changes  
+4. Commit and push  
+5. Open a pull request  
 
 ## License
-This project is licensed under the MIT License.
+MIT License
